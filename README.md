@@ -39,20 +39,11 @@ Praticar a criação de um componente visual com foco em:
 
 ---
 
-## 💡 O que aprendi
+## 💡 O que aprendi/aprimorei
 
 - Como aplicar `box-shadow` para dar profundidade a elementos
 - Estilização com `:hover` e `transition` para efeitos suaves
 - Organização de classes CSS reutilizáveis
-
----
-
-## 🛠️ Em desenvolvimento contínuo
-
-Pretendo:
-- Adicionar `focus` para acessibilidade com teclado
-- Refatorar o CSS usando SASS ou Tailwind
-- Fazer uma versão do componente em React
 
 ---
 
