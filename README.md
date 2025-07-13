@@ -34,7 +34,7 @@ Praticar a criação de um componente visual com foco em:
 ## 🔗 Links
 
 - [🔗 Visualizar Projeto](https://marianaararipe.github.io/blog-preview-card/)
-- [📁 Repositório no Frontend Mentor](https://www.frontendmentor.io/solutions/SEU-SOLUCAO-AQUI)
+- [📁 Repositório no Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-with-html-and-css-mM11Ydab9S)
 - [📂 Código no GitHub](https://github.com/marianaararipe/blog-preview-card)
 
 ---
